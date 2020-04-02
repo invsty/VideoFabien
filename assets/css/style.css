@@ -1,0 +1,22 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    background-color: #073642;
+    text-align: center;
+    color: #ffffff;
+
+}
+.index{
+    text-align: center;
+}
+.card{
+    display: inline-block;
+    width: 300px;
+}
+.forms{
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+    width: 400px;
+}
